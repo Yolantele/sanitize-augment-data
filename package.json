@@ -1,6 +1,7 @@
 {
   "name": "recycling",
   "version": "1.0.0",
+  "author": "Jolanta Jasiulionyte",
   "description": "ML project for clasifying recycled data",
   "main": "index.js",
   "scripts": {
