@@ -1,6 +1,5 @@
 const csv = require('csv-parser')
 const fs = require('fs')
-const results = []
 const translateRow = require('./translator')
 
 let undescribedEuralCodes = []
